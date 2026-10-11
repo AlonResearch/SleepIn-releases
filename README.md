@@ -18,6 +18,6 @@ Each release includes `SHA256SUMS` and `build.json` with the version, production
 
 ## Current limits
 
-For 1.1.0, automated web/native checks and signed packaging passed. Physical voice/shared-playback audibility, Bluetooth switching, whisper reception and a full overnight battery/reliability run remain pending. Desktop tab-capture flicker reported with some players remains a known issue. Native iOS presenting and relay support are outside this release.
+For the 1.1 releases, automated web/native checks and signed packaging passed. Physical voice/shared-playback audibility, Bluetooth switching, whisper reception and a full overnight battery/reliability run remain pending. Desktop tab-capture flicker reported with some players remains a known issue. Native iOS presenting and relay support are outside this release.
 
 This repository distributes release binaries and installation information. The application source is maintained separately.
